@@ -1,6 +1,8 @@
 # Cpp container remote debugging
 
-## Build and run
+The purpose of this project is to try debugging of cpp program using visual studio code (program is running in a docker container)
+
+## Build and run locally
 
 ```
 mkdir build
@@ -10,7 +12,7 @@ make
 ./bin/main-hello
 ```
 
-## Testing
+## Testing locally
 
 ```
 ctest
